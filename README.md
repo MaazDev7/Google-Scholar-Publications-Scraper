@@ -1,4 +1,4 @@
-# Google-Scholar-Publications-Scraper
+# 🎓 Google-Scholar-Publications-Scraper
 
 This project scrapes publication metadata from **Google Scholar** profiles of university faculty members and generates a **year-wise publication dataset** that can be used for analytics and visualizations such as **bar chart race animations** (e.g., using Flourish).
 
